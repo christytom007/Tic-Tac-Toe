@@ -1,0 +1,126 @@
+2019/10/13 01:57:35 -> Player selected game mode :LOCAL_PVP
+2019/10/13 01:57:35 -> Player selected Grid size :3
+2019/10/13 01:57:35 -> Player 1 name : Player 1   Player 2 name : Player 2
+2019/10/13 01:57:35 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:35 -> Game initialized.
+2019/10/13 01:57:35 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:35 -> Game Resetted.
+2019/10/13 01:57:35 -> First turn goes to 'O'.
+2019/10/13 01:57:36 -> O Selected grid position [0,1].
+2019/10/13 01:57:36 -> Number of Grid positions available : 8
+2019/10/13 01:57:36 -> Game turn changed to 'X'.
+2019/10/13 01:57:37 -> X Selected grid position [1,1].
+2019/10/13 01:57:37 -> Number of Grid positions available : 7
+2019/10/13 01:57:37 -> Game turn changed to 'O'.
+2019/10/13 01:57:37 -> O Selected grid position [1,2].
+2019/10/13 01:57:37 -> Number of Grid positions available : 6
+2019/10/13 01:57:37 -> Game turn changed to 'X'.
+2019/10/13 01:57:38 -> X Selected grid position [2,2].
+2019/10/13 01:57:38 -> Number of Grid positions available : 5
+2019/10/13 01:57:38 -> Game turn changed to 'O'.
+2019/10/13 01:57:38 -> O Selected grid position [2,1].
+2019/10/13 01:57:38 -> Number of Grid positions available : 4
+2019/10/13 01:57:38 -> Game turn changed to 'X'.
+2019/10/13 01:57:39 -> X Selected grid position [2,0].
+2019/10/13 01:57:39 -> Number of Grid positions available : 3
+2019/10/13 01:57:39 -> Game turn changed to 'O'.
+2019/10/13 01:57:39 -> O Selected grid position [1,0].
+2019/10/13 01:57:39 -> Number of Grid positions available : 2
+2019/10/13 01:57:39 -> Game turn changed to 'X'.
+2019/10/13 01:57:39 -> X Selected grid position [0,0].
+2019/10/13 01:57:39 -> Number of Grid positions available : 1
+2019/10/13 01:57:39 -> X got a Strike in [0,0],[1,1],[2,2] position.
+2019/10/13 01:57:39 -> X got 10 points, Total : 10
+2019/10/13 01:57:39 -> X Won the game!!
+2019/10/13 01:57:39 -> Player 1 Score : 10 | Player 2 Score : 0
+2019/10/13 01:57:42 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:42 -> Game Resetted.
+2019/10/13 01:57:42 -> First turn goes to 'O'.
+2019/10/13 01:57:43 -> O Selected grid position [1,1].
+2019/10/13 01:57:43 -> Number of Grid positions available : 8
+2019/10/13 01:57:43 -> Game turn changed to 'X'.
+2019/10/13 01:57:43 -> X Selected grid position [0,1].
+2019/10/13 01:57:43 -> Number of Grid positions available : 7
+2019/10/13 01:57:43 -> Game turn changed to 'O'.
+2019/10/13 01:57:44 -> O Selected grid position [0,2].
+2019/10/13 01:57:44 -> Number of Grid positions available : 6
+2019/10/13 01:57:44 -> Game turn changed to 'X'.
+2019/10/13 01:57:44 -> X Selected grid position [1,2].
+2019/10/13 01:57:44 -> Number of Grid positions available : 5
+2019/10/13 01:57:44 -> Game turn changed to 'O'.
+2019/10/13 01:57:44 -> O Selected grid position [2,1].
+2019/10/13 01:57:44 -> Number of Grid positions available : 4
+2019/10/13 01:57:44 -> Game turn changed to 'X'.
+2019/10/13 01:57:45 -> X Selected grid position [2,0].
+2019/10/13 01:57:45 -> Number of Grid positions available : 3
+2019/10/13 01:57:45 -> Game turn changed to 'O'.
+2019/10/13 01:57:45 -> O Selected grid position [0,0].
+2019/10/13 01:57:45 -> Number of Grid positions available : 2
+2019/10/13 01:57:45 -> Game turn changed to 'X'.
+2019/10/13 01:57:46 -> X Selected grid position [1,0].
+2019/10/13 01:57:46 -> Number of Grid positions available : 1
+2019/10/13 01:57:46 -> Game turn changed to 'O'.
+2019/10/13 01:57:46 -> O Selected grid position [2,2].
+2019/10/13 01:57:46 -> Number of Grid positions available : 0
+2019/10/13 01:57:46 -> O got a Strike in [0,0],[1,1],[2,2] position.
+2019/10/13 01:57:46 -> O got 10 points, Total : 10
+2019/10/13 01:57:46 -> O Won the game!!
+2019/10/13 01:57:46 -> Player 1 Score : 10 | Player 2 Score : 10
+2019/10/13 01:57:48 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:48 -> Game Resetted.
+2019/10/13 01:57:48 -> First turn goes to 'O'.
+2019/10/13 01:57:49 -> O Selected grid position [1,1].
+2019/10/13 01:57:49 -> Number of Grid positions available : 8
+2019/10/13 01:57:49 -> Game turn changed to 'X'.
+2019/10/13 01:57:49 -> X Selected grid position [0,1].
+2019/10/13 01:57:49 -> Number of Grid positions available : 7
+2019/10/13 01:57:49 -> Game turn changed to 'O'.
+2019/10/13 01:57:50 -> O Selected grid position [2,2].
+2019/10/13 01:57:50 -> Number of Grid positions available : 6
+2019/10/13 01:57:50 -> Game turn changed to 'X'.
+2019/10/13 01:57:50 -> X Selected grid position [2,1].
+2019/10/13 01:57:50 -> Number of Grid positions available : 5
+2019/10/13 01:57:50 -> Game turn changed to 'O'.
+2019/10/13 01:57:50 -> O Selected grid position [2,0].
+2019/10/13 01:57:50 -> Number of Grid positions available : 4
+2019/10/13 01:57:50 -> Game turn changed to 'X'.
+2019/10/13 01:57:51 -> X Selected grid position [1,0].
+2019/10/13 01:57:51 -> Number of Grid positions available : 3
+2019/10/13 01:57:51 -> Game turn changed to 'O'.
+2019/10/13 01:57:51 -> O Selected grid position [0,0].
+2019/10/13 01:57:51 -> Number of Grid positions available : 2
+2019/10/13 01:57:51 -> O got a Strike in [0,0],[1,1],[2,2] position.
+2019/10/13 01:57:51 -> O got 10 points, Total : 20
+2019/10/13 01:57:51 -> O Won the game!!
+2019/10/13 01:57:51 -> Player 1 Score : 10 | Player 2 Score : 20
+2019/10/13 01:57:53 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:53 -> Game Resetted.
+2019/10/13 01:57:53 -> First turn goes to 'X'.
+2019/10/13 01:57:54 -> X Selected grid position [1,1].
+2019/10/13 01:57:54 -> Number of Grid positions available : 8
+2019/10/13 01:57:54 -> Game turn changed to 'O'.
+2019/10/13 01:57:55 -> O Selected grid position [0,1].
+2019/10/13 01:57:55 -> Number of Grid positions available : 7
+2019/10/13 01:57:55 -> Game turn changed to 'X'.
+2019/10/13 01:57:55 -> X Selected grid position [1,2].
+2019/10/13 01:57:55 -> Number of Grid positions available : 6
+2019/10/13 01:57:55 -> Game turn changed to 'O'.
+2019/10/13 01:57:55 -> O Selected grid position [2,2].
+2019/10/13 01:57:55 -> Number of Grid positions available : 5
+2019/10/13 01:57:55 -> Game turn changed to 'X'.
+2019/10/13 01:57:55 -> X Selected grid position [2,1].
+2019/10/13 01:57:55 -> Number of Grid positions available : 4
+2019/10/13 01:57:55 -> Game turn changed to 'O'.
+2019/10/13 01:57:56 -> O Selected grid position [2,0].
+2019/10/13 01:57:56 -> Number of Grid positions available : 3
+2019/10/13 01:57:56 -> Game turn changed to 'X'.
+2019/10/13 01:57:56 -> X Selected grid position [1,0].
+2019/10/13 01:57:56 -> Number of Grid positions available : 2
+2019/10/13 01:57:56 -> X got a Strike in [1,0],[1,1],[1,2] position.
+2019/10/13 01:57:56 -> X got 10 points, Total : 20
+2019/10/13 01:57:56 -> X Won the game!!
+2019/10/13 01:57:56 -> Player 1 Score : 20 | Player 2 Score : 20
+2019/10/13 01:57:58 -> ------------------------------------------------------------------------------
+2019/10/13 01:57:58 -> Game Resetted.
+2019/10/13 01:57:58 -> First turn goes to 'X'.
+2019/10/13 01:58:00 -> Player chose to Close the game.
