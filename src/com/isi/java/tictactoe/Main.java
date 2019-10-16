@@ -1,5 +1,5 @@
 /**
- * 
+ * Tic Tac Toe Game using Swing
  */
 package com.isi.java.tictactoe;
 
@@ -17,19 +17,15 @@ import javax.swing.UnsupportedLookAndFeelException;
 import com.isi.java.tictactoe.view.MainMenuWindow;
 
 /**
- * @author Christy, Sciana, Karampreet, Karamjeet
+ * @author Christy Thomas
  *
  */
-public class Main
-{
-	public static void main(String[] args)
-	{
-		try
-		{
+public class Main {
+	public static void main(String[] args) {
+		try {
 			UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
-		}
-		catch (ClassNotFoundException | InstantiationException | IllegalAccessException | UnsupportedLookAndFeelException e)
-		{
+		} catch (ClassNotFoundException | InstantiationException | IllegalAccessException
+				| UnsupportedLookAndFeelException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
@@ -37,23 +33,17 @@ public class Main
 		MainMenuWindow menu = new MainMenuWindow();
 	}
 
-	public static void playMusic(InputStream inputStream)
-	{
+	public static void playMusic(InputStream inputStream) {
 		AudioInputStream audioInputStream;
-		try
-		{
+		try {
 			audioInputStream = AudioSystem.getAudioInputStream(inputStream);
 			Clip clip = AudioSystem.getClip();
 			clip.open(audioInputStream);
 			clip.start();
-		}
-		catch (UnsupportedAudioFileException | IOException e)
-		{
+		} catch (UnsupportedAudioFileException | IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		catch (LineUnavailableException e)
-		{
+		} catch (LineUnavailableException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
