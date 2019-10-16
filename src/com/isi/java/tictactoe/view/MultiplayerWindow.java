@@ -172,18 +172,6 @@ public class MultiplayerWindow extends JFrame
 			}
 			gameServer.hostGame();
 
-//			do
-//			{
-//				try
-//				{
-//					Thread.sleep(500);
-//				}
-//				catch (InterruptedException e1)
-//				{
-//					e1.printStackTrace();
-//				}
-//			}
-//			while (!gameServer.isConnected());
 //			if (!gameServer.isConnected())
 //			{
 //				JOptionPane.showMessageDialog(null, "Unable to establish the connection", "ERROR", JOptionPane.WARNING_MESSAGE);

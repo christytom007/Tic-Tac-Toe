@@ -26,10 +26,7 @@ public class Main {
 			UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
 		} catch (ClassNotFoundException | InstantiationException | IllegalAccessException
 				| UnsupportedLookAndFeelException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
 		}
-
 		MainMenuWindow menu = new MainMenuWindow();
 	}
 
@@ -41,10 +38,8 @@ public class Main {
 			clip.open(audioInputStream);
 			clip.start();
 		} catch (UnsupportedAudioFileException | IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		} catch (LineUnavailableException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
