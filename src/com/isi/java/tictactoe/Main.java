@@ -17,7 +17,7 @@ import javax.swing.UnsupportedLookAndFeelException;
 import com.isi.java.tictactoe.view.MainMenuWindow;
 
 /**
- * @author Christy Thomas
+ * @author Christy Thomas, Josephs
  *
  */
 public class Main {
