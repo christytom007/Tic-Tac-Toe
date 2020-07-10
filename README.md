@@ -1,4 +1,5 @@
 # Tic-Tac-Toe
+Made in Java and Java Swing UI
  Functionalities
 ------------------------------------------------------
 1.  a) play a local game against a friend
